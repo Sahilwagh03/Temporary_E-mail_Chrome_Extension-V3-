@@ -1,0 +1,16 @@
+{
+    "name" : "Rensomware",
+    "version" : "0.0.1",
+    "manifest_version" : 3,
+    "description" : "",
+    
+    "action" :{
+     "default_popup" : "tmail.html",
+     "default_icon" : "Ransomware.png"
+    },
+    "icons" :{
+       "128": "Ransomware.png"
+    },
+    "permissions" : ["activeTab"]
+    
+}
